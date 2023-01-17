@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakhriyor348" alt="shakhriyor348" /></a> </p>
 
-- 🌱 I’m currently learning **framework React & Redux**
+- 🌱 I’m currently learning **framework Next JS and Node JS**
 
 - 👯 I’m looking to collaborate on **with good company**
 
 - 👨‍💻 All of my projects are available at [www.shakhriyor.uz](www.shakhriyor.uz)
 
-- 💬 Ask me about **HTML,CSS,GULP,SASS,JS,REACT,REDUX**
+- 💬 Ask me about **HTML,CSS,GULP, WEBPACK, SASS,JS,REACT,REDUX**
 
 - 📫 How to reach me **shakhriyor1156@gmail.com**
 
