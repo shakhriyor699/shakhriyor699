@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakhriyor699" alt="shakhriyor699" /></a> </p>
 
-- 🌱 I’m currently learning **framework Next JS and Node JS**
+- 🌱 I’m currently learning **Node JS**
 
 - 👯 I’m looking to collaborate on **with good company**
 
