@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [www.shakhriyor.uz](www.shakhriyor.uz)
 
-- 💬 Ask me about **HTML,CSS,GULP, WEBPACK, SASS,JS,REACTJS,REDUX,REDUX-Toolikit,NextJS**
+- 💬 Ask me about **HTML,CSS,GULP, WEBPACK, SASS,JS,REACTJS,REDUX,REDUX-Toolkit,NextJS**
 
 - 📫 How to reach me **shakhriyor1156@gmail.com**
 
